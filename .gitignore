@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Build output
+dist/
+
+# Environment files
+.env
+.env.local
+
+# AI model files
+*.onnx
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
